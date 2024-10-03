@@ -34,7 +34,7 @@ model Student {
     @@map("students")
 }
 
-enum . {
+enum Program {
     CPE
     ISNE
 }
